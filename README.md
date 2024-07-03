@@ -3,7 +3,7 @@
 
  ## Demo
 
-Right [here](https://sutharsang631-auto-ml-main-hkmqac.streamlit.app/)
+Right [here](https://github.com/sutharsang631/Auto-ML)
 
 ## How does it work ?
 
